@@ -13,6 +13,12 @@ log.html
 output.xml
 report.html
 interactive_console_output.xml
+
+.angular
+
+# test files
+attic
+
 tests/data/apps/app1.tar.gz
 tests/data/apps/app2.zip
 tests/data/apps/app3.tar
